@@ -1,0 +1,21 @@
+{
+	"type": "Collection",
+	"properties": {
+		"links": {
+			"name": "links",
+			"type": "array",
+			"typeLabel": "array",
+			"required": true,
+			"id": "links",
+			"order": 0
+		},
+		"shortUrl": {
+			"name": "shortUrl",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "shortUrl",
+			"order": 1
+		}
+	}
+}

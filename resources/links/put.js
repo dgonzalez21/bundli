@@ -1,0 +1,2 @@
+protect('links');
+protect('id');

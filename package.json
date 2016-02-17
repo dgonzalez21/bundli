@@ -1,0 +1,23 @@
+{
+    "name": "my-api",
+    "version": "1.1.5",
+    "description": "My description",
+    "keywords": [],
+    "homepage": "test.com",
+    "author": "Me, Myslef and I",
+    "contributors": [],
+    "dependencies": {
+        "socket.io": "latest",
+        "deployd": ">= 0",
+        "express": "latest"
+
+
+    },
+    "scripts": {
+        "start": "node server"
+    },
+    "engines": {
+        "node": "0.10.x",
+        "npm": "2.2.x"
+    }
+}
